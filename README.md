@@ -82,7 +82,7 @@ Before you open up a codespace on a repository, you can create a development con
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct, license link
 -->
 
 ---
